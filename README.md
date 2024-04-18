@@ -1,5 +1,6 @@
 # pandas-challenge
 Module 4 Challenge
+![education](https://github.com/ChantalThom/pandas-challenge/assets/148919702/166099ce-5db5-4559-8726-a43d82b12f95)
 
 **Instructions**
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
